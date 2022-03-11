@@ -60,5 +60,5 @@ print("your percentage is",p)
 if p>=80 : print ('you achieved A grade')
 elif p>=60 : print('you achieved B grade')
 elif p>=40 : print('you achieved C grade')
-else  : print ('you achieved D grade')
+else  : print ('you achieved D grade GO STUDY')
 
